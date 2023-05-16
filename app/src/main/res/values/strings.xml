@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MySmartHome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_smart_home">My Smart Home</string>
+    <string name="lillian">Lillian</string>
+    <string name="prossylillian_gmail_com">prossylillian@gmail.com</string>
+    <string name="home_settings">Home Settings</string>
+    <string name="accounts_hubs"><![CDATA[Accounts & Hubs]]></string>
+    <string name="user_settings">User Settings</string>
+    <string name="noticifications_permissions"><![CDATA[Noticifications & Permissions]]></string>
+    <string name="app_permissions">App Permissions</string>
+    <string name="voice_assistants">Voice Assistants</string>
+    <string name="voice">Voice</string>
+    <string name="locations">Locations</string>
+    <string name="clients">Clients</string>
+    <string name="even_more_recommendations">Even more recommendations!</string>
+    <string name="thanksgiving_dinner_ready">Thanksgiving Dinner ready.</string>
+    <string name="send_me_a_noticification">Send me a noticification.</string>
+    <string name="more_recommendations">More Recommendations</string>
+</resources>
